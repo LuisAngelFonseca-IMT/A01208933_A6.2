@@ -1,0 +1,14 @@
+[
+    {
+        "hotel_id": "1",
+        "name": "Grand Plaza",
+        "location": "New York",
+        "rooms_available": 100
+    },
+    {
+        "hotel_id": "1",
+        "name": "Grand Plaza",
+        "location": "New York",
+        "rooms_available": 100
+    }
+]
